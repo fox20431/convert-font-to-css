@@ -1,6 +1,6 @@
 # convert font to base64
 
-将 font 转为 base64
+目的是将字体文件以 BASE64 方式嵌入 CSS 文件中。
 
 参考：https://github.com/amerlin/convertfont
 
